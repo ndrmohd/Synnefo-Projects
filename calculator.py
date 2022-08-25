@@ -67,7 +67,7 @@ btn3=Button(f,text='MS',font='calibri 11 bold',width='4',height='1',border='0',b
 
 
 getresult=Label(f,text='0=',font='calibri 12 bold',textvariable=result,fg='#A5A5A5',bg='#D3D3D3').place(x=280,y=40)
-toview=Label(f,text='0',font='calibri 35 bold',textvariable=view,bg='#D3D3D3').place(x=280,y=65)
+toview=Label(f,text='0',font='calibri 40',textvariable=view,bg='#D3D3D3').place(x=280,y=65)
 
 
 option=Button(f,text='☰',font='5',width='4',height='1',border='0',bg='#D3D3D3').place(x=0,y=0)
